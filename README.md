@@ -1,5 +1,5 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/35ea2516-ccdd-4bd4-82cc-9890ea51cf95)
-<h1 align="center">Hi 👋, I'm Shubham Burde</h1>
+<h1 align="center">Hi 👋, I'm Vaidehi Thool</h1>
 <h3 align="center">A passionate Cloud Enthusiast, Data Engineer and Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cool-gelato-e04e4f.netlify.app/](https://cool-gelato-e04e4f.netlify.app/)
 
-- 📫 How to reach me **burdeshubham17@gmail.com**
+- 📫 How to reach me **vaidehithoolwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
