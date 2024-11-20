@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamburde7&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamburde7" /> </p>
 
-- 🔭 I’m currently working on **Generating Synthetic Data Generation using GANs Model.**
+- 🔭 I’m currently working on **Synthetic Data Generation using GenAI.**
 
 - 🌱 I’m currently learning **AWS Cloud and React.**
 
