@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/user-attachments/assets/35ea2516-ccdd-4bd4-82cc-9890ea51cf95)
+![github-header-image (3)](https://github.com/user-attachments/assets/801cd315-8e74-491b-ae02-d79d07efd3a7)
 <h1 align="center">Hi 👋, I'm Vaidehi Thool</h1>
 <h3 align="center">A passionate Cloud Enthusiast, Data Engineer and Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
