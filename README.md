@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **AWS Cloud and React.**
 
-- 👨‍💻 All of my projects are available at [https://cool-gelato-e04e4f.netlify.app/](https://cool-gelato-e04e4f.netlify.app/)
-
 - 📫 How to reach me **vaidehithoolwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
